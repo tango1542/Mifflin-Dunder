@@ -97,7 +97,7 @@ footer { font-style: italic;
         text-align: center;
         padding: 0.5em; }
 
-figure { float: left;
+figure { display: inline-block;
         width: 225px;
         padding-bottom: 10px;
         background-color: #000000;}
